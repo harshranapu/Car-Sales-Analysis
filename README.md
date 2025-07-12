@@ -8,19 +8,19 @@ In terms of visual insights, the dashboard includes a body style analysis using 
 The dashboard also includes a company-wise sales comparison table, showing metrics such as number of cars sold, average price, total sales, and contribution to total YTD revenue. Chevrolet leads with over 25K cars sold and a 7.30% contribution, followed by Ford and Dodge.
 
 # Key Features:
-Dynamic filter panel (Date, Transmission, Engine, Body Style, Gender)
-YTD KPIs: Total Sales, Average Price, Cars Sold with YoY Growth
-Interactive weekly sales trend chart
-Pie chart for car body style distribution
-Donut chart for car color preference
-Regional sales analysis by dealer location
-Manual vs. Auto sales breakdown
-Brand-wise comparison table showing average price and total revenue
+Dynamic filter panel (Date, Transmission, Engine, Body Style, Gender),
+YTD KPIs: Total Sales, Average Price, Cars Sold with YoY Growth,
+Interactive weekly sales trend chart,
+Pie chart for car body style distribution,
+Donut chart for car color preference,
+Regional sales analysis by dealer location,
+Manual vs. Auto sales breakdown,
+Brand-wise comparison table showing average price and total revenue.
 
 # Tools & Technologies Used:
-Tableau Public Edition
-Data Cleaning & Preparation (using Excel/CSV)
-Visual Analytics & Business Intelligence
-Dashboard Design and Layout Customization
+Tableau Public Edition,
+Data Cleaning & Preparation (using Excel),
+Dashboard Design and Layout Customization,
 Interactive Filtering and KPI Display
+
 This project demonstrates practical skills in data visualization, dashboard development, and analytical thinking. It helps derive meaningful insights from sales data and can be extended for real-world business use. The dashboard is especially useful for stakeholders looking to monitor performance, understand consumer preferences, and support data-driven decision-making in the automotive industry.
